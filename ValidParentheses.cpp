@@ -1,5 +1,6 @@
 // given string s="({})[]"
-// we need to validate if the order is correct.
+// we need to validate if the order of ValidParentheses is correct.
+// use case (){}[]({[]}),{[[]},(({ etc
 #include <iostream>
 #include <stack>
 using namespace std;
