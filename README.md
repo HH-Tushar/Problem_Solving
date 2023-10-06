@@ -18,7 +18,7 @@ LeetCode is a popular platform for honing your coding skills by solving algorith
 
 Each problem's solution is provided in a dedicated directory. You can navigate to a specific problem's directory to find the C++ solution code.
 
-For example, to find the solution for the problem titled "Two Sum," navigate to the `./Problems/1-two-sum` directory.
+For example, to find the solution for the problem titled "Two Sum," navigate to the `./TwoSum/` directory.
 
 ### Running the Code
 
